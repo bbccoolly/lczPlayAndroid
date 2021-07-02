@@ -2,7 +2,7 @@ package com.lcz.pa.data.source
 
 import androidx.lifecycle.LiveData
 import com.lcz.pa.data.Task
-import com.lcz.pa.data.Result
+import com.lcz.pa.result.Result
 
 /**
  *

@@ -7,9 +7,9 @@ import kotlinx.coroutines.delay
 
 import com.lcz.pa.data.source.TasksDataSource
 import com.lcz.pa.data.Task
-import com.lcz.pa.data.Result
-import com.lcz.pa.data.Result.Success
-import com.lcz.pa.data.Result.Error
+import com.lcz.pa.result.Result
+import com.lcz.pa.result.Result.Success
+import com.lcz.pa.result.Result.Error
 
 /**
  *
